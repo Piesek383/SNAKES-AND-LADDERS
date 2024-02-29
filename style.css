@@ -1,0 +1,8 @@
+#main-header h1 {
+    text-align: center;
+    margin: 3px ;
+    padding: 25rem 0;
+    display: block;
+    font-size: 35px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}   
