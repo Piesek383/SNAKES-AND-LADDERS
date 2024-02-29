@@ -1,3 +1,5 @@
-function myFunction() {
-    document.getElementById("demo").innerHTML = "Hello World";
-  }
+  var adres = "zasady.html";
+
+function zasady() {
+  window.location.href = adres;
+}
