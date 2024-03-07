@@ -1,4 +1,4 @@
-body {
+#main-body {
     background-image: url("fnaf.png");
     display:flex;
     justify-content: center;
